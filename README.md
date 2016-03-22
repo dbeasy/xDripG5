@@ -26,7 +26,7 @@ github "loudnate/xDripG5"
 
 Note that you'll need to confgure your target to link against `CommonCrypto.framework` in addition to `xDripG5.framework`
 
-### Cocoapods
+### CocoaPods
 
 xDripG5 is available through [CocoaPods](http://cocoapods.org). To install
 it, add the following line to your Podfile:
@@ -46,11 +46,9 @@ If you plan to run your app alongside the G5 Mobile application, make sure to se
 
 [glucose-badge](https://github.com/dennisgove/glucose-badge) – Display the latest glucose values as an app icon badge
 
+## Code of Conduct
 
-
-## Author
-
-Nathan Racklyeft, loudnate@gmail.com
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/loudnate/LoopKit/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## License
 
